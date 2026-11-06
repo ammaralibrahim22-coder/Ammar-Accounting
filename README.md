@@ -1,1 +1,5 @@
-# Ammar-Accounting
+المحاسب المتكامل
+تصميم وتطوير: عمار الإبراهيم - Beit Code
+
+مشروع أندرويد أصلي (Kotlin + Jetpack Compose). يُبنى تلقائياً عبر GitHub Actions
+عند الرفع إلى الفرع الرئيسي. ملف APK الناتج يظهر في صفحة Releases.
